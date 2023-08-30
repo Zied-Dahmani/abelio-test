@@ -1,0 +1,355 @@
+[{
+        "_id": "6368dcbe7e98b9cc3704989c",
+        "visibilityFarmer": true,
+        "name": "Bord du Lac",
+        "cultureActuelle": "Colza",
+        "surface": 4.2,
+        "createdAt": "2022-11-07T10:23:58.155Z",
+        "updatedAt": "2023-02-21T09:05:32.527Z",
+        "exploitName": "Scea De Latour",
+        "donnes_agro": {
+            "regular_organic_product": false,
+            "autumn_organic_product": false,
+            "region": "Alsace",
+            "sol_profondeur": "Profond (arr\u00eat tari\u00e8re >80 cm)",
+            "sol_type": "Ried gris",
+            "objectif_rendement": 40,
+            "updatedAt": "2023-04-06T13:39:00.724Z",
+            "mpro_type": "Compost de champignonni\u00e8re",
+            "dose_already_given": 2,
+            "culture_precedente": "Betterave",
+            "dosePPF": 97,
+            "mpro_freq": "2 ann\u00e9es sur 3",
+            "mpro_automne_type": "Compost de champignonni\u00e8re",
+            "qte_mpro": 1000
+        }
+    },
+    {
+        "_id": "6368da727e98b9cc370496bc",
+        "visibilityFarmer": true,
+        "name": "Borde Basse 1",
+        "cultureActuelle": "Bl\u00e9 dur",
+        "commune": "Beaumont-sur-L\u00e8ze",
+        "postalCode": "31052",
+        "surface": 10.6,
+        "createdAt": "2022-11-07T10:14:10.606Z",
+        "updatedAt": "2023-02-21T09:05:32.527Z",
+        "exploitName": "Sarl Vall\u00e9es Et Terroirs",
+        "donnes_agro": {
+            "regular_organic_product": false,
+            "autumn_organic_product": false,
+            "ferti_apports": {
+                "dose_pivot_1cm": 30,
+                "dose_pivot_tallage": 58
+            },
+            "updatedAt": "2023-04-06T13:39:00.724Z"
+        }
+    },
+    {
+        "_id": "6368da947e98b9cc370496d6",
+        "visibilityFarmer": true,
+        "name": "Borde Basse 2",
+        "cultureActuelle": "Bl\u00e9 dur",
+        "commune": "Beaumont-sur-L\u00e8ze",
+        "postalCode": "31052",
+        "surface": 3,
+        "createdAt": "2022-11-07T10:14:44.792Z",
+        "updatedAt": "2023-02-21T09:05:32.527Z",
+        "exploitName": "Sarl Vall\u00e9es Et Terroirs",
+        "donnes_agro": {
+            "regular_organic_product": false,
+            "autumn_organic_product": false,
+            "ferti_apports": {
+                "dose_pivot_1cm": 50,
+                "dose_pivot_tallage": 56
+            },
+            "updatedAt": "2023-04-06T13:39:00.724Z"
+        }
+    },
+    {
+        "_id": "63987b983066880fe4d44d6a",
+        "visibilityFarmer": true,
+        "name": "Cabirol",
+        "cultureActuelle": "Bl\u00e9 dur",
+        "surface": 28.8,
+        "createdAt": "2022-12-13T13:18:16.102Z",
+        "updatedAt": "2023-02-21T09:05:32.527Z",
+        "exploitName": "Earl Voie Ferr\u00e9e",
+        "donnes_agro": {
+            "regular_organic_product": false,
+            "autumn_organic_product": false,
+            "region": "Midi-Pyr\u00e9n\u00e9es",
+            "sol_profondeur": "Superficiel (arr\u00eat tari\u00e8re <40 cm)",
+            "sol_type": "Causses superficielles",
+            "semis_date": "2022-10-27T22:00:00.000Z",
+            "variete": "ANVERGUR",
+            "updatedAt": "2023-04-06T13:39:00.724Z"
+        }
+    },
+    {
+        "_id": "63987be53066880fe4d44dc3",
+        "visibilityFarmer": true,
+        "name": "Conteste",
+        "cultureActuelle": "Bl\u00e9 dur",
+        "surface": 39,
+        "createdAt": "2022-12-13T13:19:33.732Z",
+        "updatedAt": "2023-02-24T15:21:11.241Z",
+        "exploitName": "Earl Voie Ferr\u00e9e",
+        "donnes_agro": {
+            "regular_organic_product": false,
+            "autumn_organic_product": false,
+            "region": "Midi-Pyr\u00e9n\u00e9es",
+            "sol_profondeur": "Profond (arr\u00eat tari\u00e8re >80 cm)",
+            "sol_type": "Touyas",
+            "labour": true,
+            "semis_date": "2022-11-02T23:00:00.000Z",
+            "variete": "FLORIDOU",
+            "updatedAt": "2023-04-06T13:39:00.724Z"
+        }
+    },
+    {
+        "_id": "63987be63066880fe4d44dcc",
+        "visibilityFarmer": true,
+        "name": "Cornus",
+        "cultureActuelle": "Bl\u00e9 dur",
+        "surface": 21.4,
+        "createdAt": "2022-12-13T13:19:34.610Z",
+        "updatedAt": "2023-02-24T15:21:51.357Z",
+        "exploitName": "Earl Voie Ferr\u00e9e",
+        "donnes_agro": {
+            "regular_organic_product": false,
+            "autumn_organic_product": false,
+            "region": "Midi-Pyr\u00e9n\u00e9es",
+            "sol_profondeur": "Superficiel (arr\u00eat tari\u00e8re <40 cm)",
+            "sol_type": "Terreforts superficiels",
+            "semis_date": "2022-10-26T22:00:00.000Z",
+            "variete": "RGT VOILUR",
+            "updatedAt": "2023-04-06T13:39:00.724Z"
+        }
+    },
+    {
+        "_id": "6439160bcd6ffc263b283580",
+        "visibilityFarmer": true,
+        "name": "Dame",
+        "cultureActuelle": "Betterave",
+        "commune": "Brancourt-le-Grand",
+        "postalCode": "02112",
+        "surface": 22.2,
+        "createdAt": "2023-04-14T08:59:55.172Z",
+        "updatedAt": "2023-04-26T20:29:58.804Z",
+        "entryPoint": {
+            "longitude": 3.4141033384321418,
+            "latitude": 49.9956806712521
+        },
+        "exploitName": "Earl Vermandois"
+    },
+    {
+        "_id": "63987be93066880fe4d44de7",
+        "visibilityFarmer": true,
+        "name": "Devant Marens",
+        "cultureActuelle": "Bl\u00e9 tendre",
+        "surface": 16.5,
+        "createdAt": "2022-12-13T13:19:37.320Z",
+        "updatedAt": "2023-02-21T09:05:32.527Z",
+        "exploitName": "Earl Voie Ferr\u00e9e",
+        "donnes_agro": {
+            "regular_organic_product": false,
+            "autumn_organic_product": false,
+            "region": "Midi-Pyr\u00e9n\u00e9es",
+            "sol_profondeur": "Moyen (40cm <arr\u00eat tari\u00e8re< 80 cm)",
+            "sol_type": "Limon argileux sur schiste dur",
+            "semis_date": "2022-10-23T22:00:00.000Z",
+            "variete": "RGT MONTECARLO",
+            "updatedAt": "2023-04-06T13:39:00.724Z"
+        }
+    },
+    {
+        "_id": "63987beb3066880fe4d44dfb",
+        "visibilityFarmer": true,
+        "name": "En Raouzel Devant",
+        "cultureActuelle": "Bl\u00e9 dur",
+        "surface": 6.7,
+        "createdAt": "2022-12-13T13:19:39.166Z",
+        "updatedAt": "2023-02-24T15:22:03.364Z",
+        "exploitName": "Earl Voie Ferr\u00e9e",
+        "donnes_agro": {
+            "regular_organic_product": false,
+            "autumn_organic_product": false,
+            "region": "Midi-Pyr\u00e9n\u00e9es",
+            "sol_profondeur": "Superficiel (arr\u00eat tari\u00e8re <40 cm)",
+            "sol_type": "Boulb\u00e8nes superficielles caillouteuses",
+            "labour": true,
+            "semis_date": "2022-11-09T23:00:00.000Z",
+            "variete": "ANVERGUR",
+            "updatedAt": "2023-04-06T13:39:00.724Z"
+        }
+    },
+    {
+        "_id": "63987bec3066880fe4d44e04",
+        "visibilityFarmer": true,
+        "name": "En Raouzel Fond",
+        "cultureActuelle": "Bl\u00e9 dur",
+        "surface": 6.8,
+        "createdAt": "2022-12-13T13:19:40.144Z",
+        "updatedAt": "2023-02-24T15:22:17.242Z",
+        "exploitName": "Earl Voie Ferr\u00e9e",
+        "donnes_agro": {
+            "regular_organic_product": false,
+            "autumn_organic_product": false,
+            "region": "Midi-Pyr\u00e9n\u00e9es",
+            "sol_profondeur": "Moyen (40cm <arr\u00eat tari\u00e8re< 80 cm)",
+            "sol_type": "S\u00e9galas l\u00e9gers",
+            "semis_date": "2022-10-25T22:00:00.000Z",
+            "variete": "RELIEF",
+            "updatedAt": "2023-04-06T13:39:00.724Z"
+        }
+    },
+    {
+        "_id": "643915eacd6ffc263b283565",
+        "visibilityFarmer": true,
+        "name": "Fricourt Haie",
+        "cultureActuelle": "Betterave",
+        "surface": 15.1,
+        "createdAt": "2023-04-14T08:59:22.965Z",
+        "updatedAt": "2023-04-26T20:29:43.489Z",
+        "entryPoint": {
+            "longitude": 3.410372215489616,
+            "latitude": 49.99039816760646
+        },
+        "exploitName": "Earl Vermandois"
+    },
+    {
+        "_id": "64147510a3f29b4c5cbd4062",
+        "visibilityFarmer": true,
+        "name": "Jardin des Plantes",
+        "cultureActuelle": "Bl\u00e9 am\u00e9liorant",
+        "commune": "Toulouse",
+        "postalCode": "31555",
+        "surface": 6.8,
+        "createdAt": "2023-03-17T14:11:28.345Z",
+        "updatedAt": "2023-04-03T18:10:12.518Z",
+        "exploitName": "Earl Voie Ferr\u00e9e",
+        "donnes_agro": {
+            "culture_precedente": "Autre",
+            "regular_organic_product": false,
+            "autumn_organic_product": false,
+            "variete": "ACCROC",
+            "createdAt": "2023-03-17T16:44:21.615Z",
+            "updatedAt": "2023-03-17T16:44:21.615Z"
+        }
+    },
+    {
+        "_id": "63987bec3066880fe4d44e0d",
+        "visibilityFarmer": true,
+        "name": "La Molandiere",
+        "cultureActuelle": "Bl\u00e9 tendre",
+        "surface": 9.5,
+        "createdAt": "2022-12-13T13:19:40.906Z",
+        "updatedAt": "2023-02-21T09:05:32.527Z",
+        "exploitName": "Earl Voie Ferr\u00e9e",
+        "donnes_agro": {
+            "regular_organic_product": false,
+            "autumn_organic_product": false,
+            "region": "Franche-Comt\u00e9",
+            "sol_profondeur": "Moyen (40cm <arr\u00eat tari\u00e8re< 80 cm)",
+            "sol_type": "Boulb\u00e8ne sableuse",
+            "semis_date": "2022-11-02T23:00:00.000Z",
+            "variete": "PIBRAC",
+            "updatedAt": "2023-04-06T13:39:00.724Z"
+        }
+    },
+    {
+        "_id": "6368dcf87e98b9cc370498b0",
+        "visibilityFarmer": true,
+        "name": "Masencal",
+        "cultureActuelle": "Colza",
+        "surface": 8.9,
+        "createdAt": "2022-11-07T10:24:56.476Z",
+        "updatedAt": "2023-02-21T09:05:32.527Z",
+        "exploitName": "Scea De Latour",
+        "donnes_agro": {
+            "regular_organic_product": false,
+            "autumn_organic_product": false,
+            "region": "Alsace",
+            "sol_profondeur": "Profond (arr\u00eat tari\u00e8re >80 cm)",
+            "sol_type": "Ried gris",
+            "objectif_rendement": 40,
+            "dosePPF": 205,
+            "updatedAt": "2023-04-06T13:39:00.724Z"
+        }
+    },
+    {
+        "_id": "6368daca7e98b9cc370496f0",
+        "visibilityFarmer": false,
+        "name": "Ribonnet",
+        "cultureActuelle": "Bl\u00e9 tendre",
+        "commune": "Beaumont-sur-L\u00e8ze",
+        "postalCode": "31052",
+        "surface": 10.3,
+        "createdAt": "2022-11-07T10:15:38.561Z",
+        "updatedAt": "2023-04-25T21:47:42.979Z",
+        "exploitName": "Sarl Vall\u00e9es Et Terroirs",
+        "donnes_agro": {
+            "regular_organic_product": false,
+            "autumn_organic_product": false,
+            "variete": "ALBIANO",
+            "ferti_apports": {
+                "dose_pivot_montaison": 51,
+                "dose_pivot_1cm": 40,
+                "dose_pivot_tallage": 54
+            },
+            "updatedAt": "2023-04-25T21:47:43.185Z",
+            "flightDateByForfait": {}
+        }
+    },
+    {
+        "_id": "6368dd157e98b9cc370498c4",
+        "visibilityFarmer": true,
+        "name": "Sous le Bois",
+        "cultureActuelle": "Colza",
+        "surface": 6.7,
+        "createdAt": "2022-11-07T10:25:25.612Z",
+        "updatedAt": "2023-02-21T09:05:32.527Z",
+        "exploitName": "Scea De Latour",
+        "donnes_agro": {
+            "regular_organic_product": false,
+            "autumn_organic_product": false,
+            "region": "Midi-Pyr\u00e9n\u00e9es",
+            "sol_profondeur": "Superficiel (arr\u00eat tari\u00e8re <40 cm)",
+            "updatedAt": "2023-04-06T13:39:00.724Z"
+        }
+    },
+    {
+        "_id": "6368dd467e98b9cc370498d8",
+        "visibilityFarmer": true,
+        "name": "Terrefort",
+        "cultureActuelle": "Colza",
+        "surface": 17.5,
+        "createdAt": "2022-11-07T10:26:14.229Z",
+        "updatedAt": "2023-02-21T09:05:32.527Z",
+        "exploitName": "Scea De Latour",
+        "donnes_agro": {
+            "regular_organic_product": false,
+            "autumn_organic_product": false,
+            "region": "Alsace",
+            "sol_profondeur": "Superficiel (arr\u00eat tari\u00e8re <40 cm)",
+            "updatedAt": "2023-04-06T13:39:00.724Z"
+        }
+    },
+    {
+        "_id": "643915b2cd6ffc263b283546",
+        "visibilityFarmer": true,
+        "name": "Vienne Lin",
+        "cultureActuelle": "Betterave",
+        "commune": "Brancourt-le-Grand",
+        "postalCode": "02112",
+        "surface": 22.2,
+        "createdAt": "2023-04-14T08:58:26.194Z",
+        "updatedAt": "2023-04-26T20:29:40.363Z",
+        "entryPoint": {
+            "longitude": 3.4151145104893885,
+            "latitude": 49.985891181802
+        },
+        "exploitName": "Earl Vermandois"
+    }
+]
